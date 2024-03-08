@@ -1,2 +1,2 @@
 # Afame-Technologies
-Web Development Intern Project
+Web Development Intern Project - Portfolio
